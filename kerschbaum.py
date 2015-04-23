@@ -12,7 +12,6 @@ import hashlib
     @:returns timestamp_tuple   four tuple with pseudonymized data
 """
 
-
 def pseudo(input_time, args):
     if len(input_time) > 1024:
         print("Data too long.\n")
