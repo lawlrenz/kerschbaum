@@ -2,11 +2,15 @@ kerschbaum
 ======
 
 
---- Description ---
+Description 
+-----------
+
 Distance preserving pseudonymization algorithm in the special case of time values (easily expandable for all kind of integers).
 Implemented on base of the one dimensional algorithm provided by Florian Kerschbaum [1].
  
---- Requirements ---
+Requirements
+------------
+
 - Testet on Python 2.7, would probably work for higher versions, too.
 
 
