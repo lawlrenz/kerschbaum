@@ -40,7 +40,7 @@ def pseudo(input_time, args):
     return timestamp_data
 
 
-""" Computes the distance from two pseudonymized datums
+""" Computes the distance from two pseudonymized data
 
     @:param input_data1		pseudonymized datum
     @:param input_data2         pseudonymized datum
